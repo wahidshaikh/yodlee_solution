@@ -1,0 +1,9 @@
+C:\Wahid\yodlee_solution\yodleemodel\bin\Debug\yodleemodel.dll
+C:\Wahid\yodlee_solution\yodleemodel\bin\Debug\yodleemodel.pdb
+C:\Wahid\yodlee_solution\yodleemodel\obj\Debug\yodleemodel.dll
+C:\Wahid\yodlee_solution\yodleemodel\obj\Debug\yodleemodel.pdb
+C:\GitHub\yodlee_solution\yodleemodel\bin\Debug\yodleemodel.dll
+C:\GitHub\yodlee_solution\yodleemodel\bin\Debug\yodleemodel.pdb
+C:\GitHub\yodlee_solution\yodleemodel\obj\Debug\yodleemodel.dll
+C:\GitHub\yodlee_solution\yodleemodel\obj\Debug\yodleemodel.pdb
+C:\GitHub\yodlee_solution\yodleemodel\bin\Debug\Newtonsoft.Json.dll
